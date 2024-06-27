@@ -1,0 +1,157 @@
+[
+  {
+    "name": "1Zpresso J-Max",
+    "id": "1zpresso_j_max",
+    "labels": ["rotation", "number", "click"]
+  },
+  {
+    "name": "1Zpresso JX",
+    "id": "1zpresso_jx",
+    "labels": ["rotation", "number", "click"]
+  },
+  {
+    "name": "1Zpresso JX Pro",
+    "id": "1zpresso_jx_pro",
+    "labels": ["rotation", "number", "click"]
+  },
+  {
+    "name": "1Zpresso K-Series",
+    "id": "1zpresso_k_series",
+    "labels": ["number", "click"]
+  },
+  {
+    "name": "1Zpresso Q-Series",
+    "id": "1zpresso_q_series",
+    "labels": ["rotation", "number", "click"]
+  },
+  {
+    "name": "1Zpresso X-Series",
+    "id": "1zpresso_x_series",
+    "labels": ["rotation", "number", "click"]
+  },
+  {
+    "name": "Baratza Encore",
+    "id": "baratza_encore",
+    "labels": ["step"]
+  },
+  {
+    "name": "Baratza Virtuoso",
+    "id": "baratza_virtuoso",
+    "labels": ["step"]
+  },
+  {
+    "name": "Breville Dose Control Pro",
+    "id": "breville_dose_control_pro",
+    "labels": ["step"]
+  },
+  {
+    "name": "Breville Smart Grinder Pro",
+    "id": "breville_smart_grinder_pro",
+    "labels": ["step"]
+  },
+  {
+    "name": "Capresso Infinity",
+    "id": "capresso_infinity",
+    "labels": ["step"]
+  },
+  {
+    "name": "Capresso Infinity Plus",
+    "id": "capresso_infinity_plus",
+    "labels": ["dot"]
+  },
+  {
+    "name": "Comandante C40",
+    "id": "comandante_c40",
+    "labels": ["click"]
+  },
+  {
+    "name": "Comandante C40 + Red Clix",
+    "id": "comandante_c40_red_clix",
+    "labels": ["click"]
+  },
+  {
+    "name": "Fellow Ode",
+    "id": "fellow_ode",
+    "labels": ["number", "click"]
+  },
+  {
+    "name": "Fellow Ode Gen 2",
+    "id": "fellow_ode_gen_2",
+    "labels": ["number", "click"]
+  },
+  {
+    "name": "Hario Mini Mill Slim",
+    "id": "hario_mini_mill_slim",
+    "labels": ["click"]
+  },
+  {
+    "name": "Hario Mini Mill Slim Plus",
+    "id": "hario_mini_mill_slim_plus",
+    "labels": ["click"]
+  },
+  {
+    "name": "Hario Skerton",
+    "id": "hario_skerton",
+    "labels": ["notch"]
+  },
+  {
+    "name": "Hario Skerton Pro",
+    "id": "hario_skerton_pro",
+    "labels": ["click"]
+  },
+  {
+    "name": "Helor 101",
+    "id": "helor_101",
+    "labels": ["rotation", "dot"]
+  },
+  {
+    "name": "KINGrinder K6",
+    "id": "kingrinder_k6",
+    "labels": ["click"]
+  },
+  {
+    "name": "Kinu M47",
+    "id": "kinu_m47",
+    "labels": ["rotation", "number", "click"]
+  },
+  {
+    "name": "Knock Aergrind",
+    "id": "knock_aergrind",
+    "labels": ["rotation", "notch"]
+  },
+  {
+    "name": "Niche Zero",
+    "id": "niche_zero",
+    "labels": ["step"]
+  },
+  {
+    "name": "Porlex Mini",
+    "id": "porlex_mini",
+    "labels": ["click"]
+  },
+  {
+    "name": "Porlex Tall",
+    "id": "porlex_tall",
+    "labels": ["click"]
+  },
+  {
+    "name": "Sage Dose Control Pro",
+    "id": "sage_dose_control_pro",
+    "labels": ["step"]
+  },
+  {
+    "name": "Sage Smart Grinder Pro",
+    "id": "sage_smart_grinder_pro",
+    "labels": ["step"]
+  },
+  {
+    "name": "Timemore Chestnut C2",
+    "id": "timemore_chestnut_c2",
+    "labels": ["click"]
+  },
+  {
+    "name": "Timemore Chestnut C3",
+    "id": "timemore_chestnut_c3",
+    "labels": ["click"]
+  }
+]
