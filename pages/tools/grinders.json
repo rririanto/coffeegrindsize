@@ -1,0 +1,1022 @@
+{
+  "1Zpresso ZP6 Special": {
+    "name": "1Zpresso ZP6 Special",
+    "units": "rotations",
+    "range": [0, 1.36],
+    "brewingMethods": [
+      {
+        "name": "Turkish",
+        "rotations": [null, null],
+        "microns": [40, 220],
+        "grindSize": "Extra Fine"
+      },
+      {
+        "name": "Espresso",
+        "rotations": [null, null],
+        "microns": [180, 380],
+        "grindSize": "Fine"
+      },
+      {
+        "name": "V60",
+        "rotations": [0, 0.36],
+        "microns": [400, 700],
+        "grindSize": "Medium Fine"
+      },
+      {
+        "name": "Aeropress",
+        "rotations": [0, 0.7],
+        "microns": [320, 960],
+        "grindSize": "Fine to Medium"
+      },
+      {
+        "name": "Moka Pot",
+        "rotations": [0, 0.31],
+        "microns": [360, 660],
+        "grindSize": "Fine"
+      },
+      {
+        "name": "Pour Over",
+        "rotations": [0, 0.66],
+        "microns": [410, 930],
+        "grindSize": "Medium"
+      },
+      {
+        "name": "Siphon",
+        "rotations": [0, 0.49],
+        "microns": [375, 800],
+        "grindSize": "Medium"
+      },
+      {
+        "name": "Filter Coffee Machine",
+        "rotations": [0, 0.62],
+        "microns": [300, 900],
+        "grindSize": "Medium"
+      },
+      {
+        "name": "French Press",
+        "rotations": [0.36, 1.23],
+        "microns": [690, 1300],
+        "grindSize": "Coarse"
+      },
+      {
+        "name": "Cupping",
+        "rotations": [0.07, 0.56],
+        "microns": [460, 850],
+        "grindSize": "Medium Coarse"
+      },
+      {
+        "name": "Cold Brew",
+        "rotations": [0.5, 1.36],
+        "microns": [800, 1440],
+        "grindSize": "Extra Coarse"
+      },
+      {
+        "name": "Cold Drip",
+        "rotations": [0.53, 1.19],
+        "microns": [820, 1270],
+        "grindSize": "Coarse"
+      },
+      {
+        "name": "Steep-and-release",
+        "rotations": [0.06, 0.52],
+        "microns": [450, 825],
+        "grindSize": "Medium"
+      }
+    ]
+  },
+    "1Zpresso K-Ultra": {
+    "name": "1Zpresso K-Ultra",
+    "units": "clicks",
+    "range": [0, 180],
+    "brewingMethods": [
+      {
+        "name": "Turkish",
+        "clicks": ["0.0.6", "0.2.8"],
+        "microns": [40, 220],
+        "grindSize": "Extra Fine"
+      },
+      {
+        "name": "Espresso",
+        "clicks": ["0.2.4", "0.4.9"],
+        "microns": [180, 380],
+        "grindSize": "Fine"
+      },
+      {
+        "name": "V60",
+        "clicks": ["0.5.3", "0.9.2"],
+        "microns": [400, 700],
+        "grindSize": "Medium Fine"
+      },
+      {
+        "name": "Aeropress",
+        "clicks": ["0.4.3", "1.2.6"],
+        "microns": [320, 960],
+        "grindSize": "Fine to Medium"
+      },
+      {
+        "name": "Moka Pot",
+        "clicks": ["0.4.8", "0.8.6"],
+        "microns": [360, 660],
+        "grindSize": "Fine to Medium Fine"
+      },
+      {
+        "name": "Pour Over",
+        "clicks": ["0.5.4", "1.2.2"],
+        "microns": [410, 930],
+        "grindSize": "Medium"
+      },
+      {
+        "name": "Siphon",
+        "clicks": ["0.5.0", "1.0.5"],
+        "microns": [375, 800],
+        "grindSize": "Medium"
+      },
+      {
+        "name": "Filter Coffee Machine",
+        "clicks": ["0.4.0", "1.1.8"],
+        "microns": [300, 900],
+        "grindSize": "Medium"
+      },
+      {
+        "name": "French Press",
+        "clicks": ["0.9.1", "1.7.0"],
+        "microns": [690, 1300],
+        "grindSize": "Coarse"
+      },
+      {
+        "name": "Cupping",
+        "clicks": ["0.6.1", "1.1.1"],
+        "microns": [460, 850],
+        "grindSize": "Medium Coarse"
+      },
+      {
+        "name": "Cold Brew",
+        "clicks": ["1.0.6", "1.8.4"],
+        "microns": [800, 1440],
+        "grindSize": "Extra Coarse"
+      },
+      {
+        "name": "Cold Drip",
+        "clicks": ["1.0.8", "1.6.6"],
+        "microns": [820, 1270],
+        "grindSize": "Extra Coarse"
+      },
+      {
+        "name": "Steep-and-release",
+        "clicks": ["0.6.0", "1.0.8"],
+        "microns": [450, 825],
+        "grindSize": "Medium to Medium Coarse"
+      }
+    ]
+  },
+  "Comandante C40 MK4": {
+    "name": "Comandante C40 MK4",
+    "units": "clicks",
+    "range": [0, 40],
+    "brewingMethods": [
+      {
+        "name": "Turkish",
+        "clicks": [2, 8],
+        "microns": [40, 220],
+        "grindSize": "Extra Fine"
+      },
+      {
+        "name": "Espresso",
+        "clicks": [7, 13],
+        "microns": [180, 380],
+        "grindSize": "Fine"
+      },
+      {
+        "name": "V60",
+        "clicks": [15, 25],
+        "microns": [400, 700],
+        "grindSize": "Medium Fine"
+      },
+      {
+        "name": "Aeropress",
+        "clicks": [12, 35],
+        "microns": [320, 960],
+        "grindSize": "Fine to Medium"
+      },
+      {
+        "name": "Moka Pot",
+        "clicks": [14, 24],
+        "microns": [360, 660],
+        "grindSize": "Fine to Medium Fine"
+      },
+      {
+        "name": "Pour Over",
+        "clicks": [16, 34],
+        "microns": [410, 930],
+        "grindSize": "Medium"
+      },
+      {
+        "name": "Siphon",
+        "clicks": [14, 29],
+        "microns": [375, 800],
+        "grindSize": "Medium"
+      },
+      {
+        "name": "Filter Coffee Machine",
+        "clicks": [12, 33],
+        "microns": [300, 900],
+        "grindSize": "Medium"
+      },
+      {
+        "name": "French Press",
+        "clicks": [26, 40],
+        "microns": [690, 1300],
+        "grindSize": "Coarse"
+      },
+      {
+        "name": "Cupping",
+        "clicks": [17, 31],
+        "microns": [460, 850],
+        "grindSize": "Medium Coarse"
+      },
+      {
+        "name": "Cold Brew",
+        "clicks": [30, 40],
+        "microns": [800, 1440],
+        "grindSize": "Extra Coarse"
+      },
+      {
+        "name": "Cold Drip",
+        "clicks": [31, 40],
+        "microns": [820, 1270],
+        "grindSize": "Extra Coarse"
+      },
+      {
+        "name": "Steep-and-release",
+        "clicks": [17, 30],
+        "microns": [450, 825],
+        "grindSize": "Medium to Medium Coarse"
+      }
+    ]
+  },
+  "Comandante C40 MK4 with Red Click": {
+    "name": "Comandante C40 MK4 with Red Click",
+    "units": "clicks",
+    "range": [0, 80],
+    "brewingMethods": [
+      {
+        "name": "Turkish",
+        "clicks": [4, 16],
+        "microns": [40, 220],
+        "grindSize": "Extra Fine"
+      },
+      {
+        "name": "Espresso",
+        "clicks": [14, 26],
+        "microns": [180, 380],
+        "grindSize": "Fine"
+      },
+      {
+        "name": "V60",
+        "clicks": [30, 50],
+        "microns": [400, 700],
+        "grindSize": "Medium Fine"
+      },
+      {
+        "name": "Aeropress",
+        "clicks": [24, 70],
+        "microns": [320, 960],
+        "grindSize": "Fine to Medium"
+      },
+      {
+        "name": "Moka Pot",
+        "clicks": [28, 48],
+        "microns": [360, 660],
+        "grindSize": "Fine to Medium Fine"
+      },
+      {
+        "name": "Pour Over",
+        "clicks": [32, 68],
+        "microns": [410, 930],
+        "grindSize": "Medium"
+      },
+      {
+        "name": "Siphon",
+        "clicks": [28, 58],
+        "microns": [375, 800],
+        "grindSize": "Medium"
+      },
+      {
+        "name": "Filter Coffee Machine",
+        "clicks": [24, 66],
+        "microns": [300, 900],
+        "grindSize": "Medium"
+      },
+      {
+        "name": "French Press",
+        "clicks": [52, 80],
+        "microns": [690, 1300],
+        "grindSize": "Coarse"
+      },
+      {
+        "name": "Cupping",
+        "clicks": [34, 62],
+        "microns": [460, 850],
+        "grindSize": "Medium Coarse"
+      },
+      {
+        "name": "Cold Brew",
+        "clicks": [60, 80],
+        "microns": [800, 1440],
+        "grindSize": "Extra Coarse"
+      },
+      {
+        "name": "Cold Drip",
+        "clicks": [62, 80],
+        "microns": [820, 1270],
+        "grindSize": "Extra Coarse"
+      },
+      {
+        "name": "Steep-and-release",
+        "clicks": [34, 60],
+        "microns": [450, 825],
+        "grindSize": "Medium to Medium Coarse"
+      }
+    ]
+  },
+    "Kinu M47 Classic": {
+    "name": "Kinu M47 Classic",
+    "units": "rotations",
+    "range": [0, 8.5],
+    "brewingMethods": [
+      {
+        "name": "Turkish",
+        "rotations": [0.3, 1.3],
+        "microns": [40, 220],
+        "grindSize": "Extra Fine"
+      },
+      {
+        "name": "Espresso",
+        "rotations": [1.1, 2.3],
+        "microns": [180, 380],
+        "grindSize": "Fine"
+      },
+      {
+        "name": "V60",
+        "rotations": [2.5, 4.2],
+        "microns": [400, 700],
+        "grindSize": "Medium Fine"
+      },
+      {
+        "name": "Aeropress",
+        "rotations": [2, 5.8],
+        "microns": [320, 960],
+        "grindSize": "Fine to Medium"
+      },
+      {
+        "name": "Moka Pot",
+        "rotations": [2.2, 4],
+        "microns": [360, 660],
+        "grindSize": "Fine to Medium Fine"
+      },
+      {
+        "name": "Pour Over",
+        "rotations": [2.5, 5.6],
+        "microns": [410, 930],
+        "grindSize": "Medium"
+      },
+      {
+        "name": "Siphon",
+        "rotations": [2.3, 4.8],
+        "microns": [375, 800],
+        "grindSize": "Medium"
+      },
+      {
+        "name": "Filter Coffee Machine",
+        "rotations": [1.9, 5.4],
+        "microns": [300, 900],
+        "grindSize": "Medium"
+      },
+      {
+        "name": "French Press",
+        "rotations": [4.2, 7.8],
+        "microns": [690, 1300],
+        "grindSize": "Coarse"
+      },
+      {
+        "name": "Cupping",
+        "rotations": [2.8, 5.1],
+        "microns": [460, 850],
+        "grindSize": "Medium Coarse"
+      },
+      {
+        "name": "Cold Brew",
+        "rotations": [4.9, 8.5],
+        "microns": [800, 1440],
+        "grindSize": "Extra Coarse"
+      },
+      {
+        "name": "Cold Drip",
+        "rotations": [5, 7.7],
+        "microns": [820, 1270],
+        "grindSize": "Extra Coarse"
+      },
+      {
+        "name": "Steep-and-release",
+        "rotations": [2.8, 5],
+        "microns": [450, 825],
+        "grindSize": "Medium to Medium Coarse"
+      }
+    ]
+  },
+    "Kinu M47 Phoenix": {
+    "name": "Kinu M47 Phoenix",
+    "units": "rotations",
+    "range": [0, 8.5],
+    "brewingMethods": [
+      {
+        "name": "Turkish",
+        "rotations": [0.3, 1.3],
+        "microns": [40, 220],
+        "grindSize": "Extra Fine"
+      },
+      {
+        "name": "Espresso",
+        "rotations": [1.1, 2.3],
+        "microns": [180, 380],
+        "grindSize": "Fine"
+      },
+      {
+        "name": "V60",
+        "rotations": [2.5, 4.2],
+        "microns": [400, 700],
+        "grindSize": "Medium Fine"
+      },
+      {
+        "name": "Aeropress",
+        "rotations": [2, 5.8],
+        "microns": [320, 960],
+        "grindSize": "Fine to Medium"
+      },
+      {
+        "name": "Moka Pot",
+        "rotations": [2.2, 4],
+        "microns": [360, 660],
+        "grindSize": "Fine to Medium Fine"
+      },
+      {
+        "name": "Pour Over",
+        "rotations": [2.5, 5.6],
+        "microns": [410, 930],
+        "grindSize": "Medium"
+      },
+      {
+        "name": "Siphon",
+        "rotations": [2.3, 4.8],
+        "microns": [375, 800],
+        "grindSize": "Medium"
+      },
+      {
+        "name": "Filter Coffee Machine",
+        "rotations": [1.9, 5.4],
+        "microns": [300, 900],
+        "grindSize": "Medium"
+      },
+      {
+        "name": "French Press",
+        "rotations": [4.2, 7.8],
+        "microns": [690, 1300],
+        "grindSize": "Coarse"
+      },
+      {
+        "name": "Cupping",
+        "rotations": [2.8, 5.1],
+        "microns": [460, 850],
+        "grindSize": "Medium Coarse"
+      },
+      {
+        "name": "Cold Brew",
+        "rotations": [4.9, 8.5],
+        "microns": [800, 1440],
+        "grindSize": "Extra Coarse"
+      },
+      {
+        "name": "Cold Drip",
+        "rotations": [5, 7.7],
+        "microns": [820, 1270],
+        "grindSize": "Extra Coarse"
+      },
+      {
+        "name": "Steep-and-release",
+        "rotations": [2.8, 5],
+        "microns": [450, 825],
+        "grindSize": "Medium to Medium Coarse"
+      }
+    ]
+  },
+    "Mahlkönig EK43 (0-16)": {
+    "name": "Mahlkönig EK43 (0-16)",
+    "units": "notches",
+    "range": [0, 16],
+    "brewingMethods": [
+      {
+        "name": "Turkish",
+        "notches": [0, 1],
+        "microns": [40, 220],
+        "grindSize": "Extra Fine"
+      },
+      {
+        "name": "Espresso",
+        "notches": [0, 5.1],
+        "microns": [180, 380],
+        "grindSize": "Fine"
+      },
+      {
+        "name": "V60",
+        "notches": [5.7, 13.3],
+        "microns": [400, 700],
+        "grindSize": "Medium Fine"
+      },
+      {
+        "name": "Aeropress",
+        "notches": [3.6, 1.3],
+        "microns": [320, 960],
+        "grindSize": "Fine to Medium"
+      },
+      {
+        "name": "Moka Pot",
+        "notches": [4.7, 12.3],
+        "microns": [360, 660],
+        "grindSize": "Fine to Medium Fine"
+      },
+      {
+        "name": "Pour Over",
+        "notches": [6, 1.2],
+        "microns": [410, 930],
+        "grindSize": "Medium"
+      },
+      {
+        "name": "Siphon",
+        "notches": [5.1, 15.9],
+        "microns": [375, 800],
+        "grindSize": "Medium"
+      },
+      {
+        "name": "Filter Coffee Machine",
+        "notches": [3.1, 1.1],
+        "microns": [300, 900],
+        "grindSize": "Medium"
+      },
+      {
+        "name": "French Press",
+        "notches": [13.1, 1.11],
+        "microns": [690, 1300],
+        "grindSize": "Coarse"
+      },
+      {
+        "name": "Cupping",
+        "notches": [7.2, 1.0],
+        "microns": [460, 850],
+        "grindSize": "Medium Coarse"
+      },
+      {
+        "name": "Cold Brew",
+        "notches": [16, 1.14],
+        "microns": [800, 1440],
+        "grindSize": "Extra Coarse"
+      },
+      {
+        "name": "Cold Drip",
+        "notches": [16.5, 1.10],
+        "microns": [820, 1270],
+        "grindSize": "Extra Coarse"
+      },
+      {
+        "name": "Steep-and-release",
+        "notches": [7, 16.5],
+        "microns": [450, 825],
+        "grindSize": "Medium to Medium Coarse"
+      }
+    ]
+  },
+    "Mahlkönig EK43 (1-11)": {
+    "name": "Mahlkönig EK43 (1-11)",
+    "units": "notches",
+    "range": [1, 11],
+    "brewingMethods": [
+      {
+        "name": "Turkish",
+        "notches": [1, 1.6],
+        "microns": [40, 220],
+        "grindSize": "Extra Fine"
+      },
+      {
+        "name": "Espresso",
+        "notches": [1, 4.2],
+        "microns": [180, 380],
+        "grindSize": "Fine"
+      },
+      {
+        "name": "V60",
+        "notches": [4.6, 9.6],
+        "microns": [400, 700],
+        "grindSize": "Medium Fine"
+      },
+      {
+        "name": "Aeropress",
+        "notches": [3.3, 9.2],
+        "microns": [320, 960],
+        "grindSize": "Fine to Medium"
+      },
+      {
+        "name": "Moka Pot",
+        "notches": [4.0, 8.9],
+        "microns": [360, 660],
+        "grindSize": "Fine to Medium Fine"
+      },
+      {
+        "name": "Pour Over",
+        "notches": [4.8, 8.8],
+        "microns": [410, 930],
+        "grindSize": "Medium"
+      },
+      {
+        "name": "Siphon",
+        "notches": [4.2, 11],
+        "microns": [375, 800],
+        "grindSize": "Medium"
+      },
+      {
+        "name": "Filter Coffee Machine",
+        "notches": [3.0, 8.5],
+        "microns": [300, 900],
+        "grindSize": "Medium"
+      },
+      {
+        "name": "French Press",
+        "notches": [9.5, 11],
+        "microns": [690, 1300],
+        "grindSize": "Coarse"
+      },
+      {
+        "name": "Cupping",
+        "notches": [5.7, 8.1],
+        "microns": [460, 850],
+        "grindSize": "Medium Coarse"
+      },
+      {
+        "name": "Cold Brew",
+        "notches": [11, 11],
+        "microns": [800, 1440],
+        "grindSize": "Extra Coarse"
+      },
+      {
+        "name": "Cold Drip",
+        "notches": [11, 11],
+        "microns": [820, 1270],
+        "grindSize": "Extra Coarse"
+      },
+      {
+        "name": "Steep-and-release",
+        "notches": [5.6, 11],
+        "microns": [450, 825],
+        "grindSize": "Medium to Medium Coarse"
+      }
+    ]
+  },
+    "Mahlkönig EK43 S": {
+    "name": "Mahlkönig EK43 S",
+    "units": "settings",
+    "range": [0, 16.5],
+    "brewingMethods": [
+      {
+        "name": "Turkish",
+        "settings": [0, 1],
+        "microns": [40, 220],
+        "grindSize": "Extra Fine"
+      },
+      {
+        "name": "Espresso",
+        "settings": [0, 5.1],
+        "microns": [180, 380],
+        "grindSize": "Fine"
+      },
+      {
+        "name": "V60",
+        "settings": [5.7, 13.3],
+        "microns": [400, 700],
+        "grindSize": "Medium Fine"
+      },
+      {
+        "name": "Aeropress",
+        "settings": [3.6, 1.3],
+        "microns": [320, 960],
+        "grindSize": "Fine to Medium"
+      },
+      {
+        "name": "Moka Pot",
+        "settings": [4.7, 12.3],
+        "microns": [360, 660],
+        "grindSize": "Fine"
+      },
+      {
+        "name": "Pour Over",
+        "settings": [6, 1.2],
+        "microns": [410, 930],
+        "grindSize": "Medium"
+      },
+      {
+        "name": "Siphon",
+        "settings": [5.1, 15.9],
+        "microns": [375, 800],
+        "grindSize": "Medium"
+      },
+      {
+        "name": "Filter Coffee Machine",
+        "settings": [3.1, 1.1],
+        "microns": [300, 900],
+        "grindSize": "Medium"
+      },
+      {
+        "name": "French Press",
+        "settings": [13.1, 1.11],
+        "microns": [690, 1300],
+        "grindSize": "Coarse"
+      },
+      {
+        "name": "Cupping",
+        "settings": [7.2, 1.0],
+        "microns": [460, 850],
+        "grindSize": "Medium Coarse"
+      },
+      {
+        "name": "Cold Brew",
+        "settings": [16, 1.14],
+        "microns": [800, 1440],
+        "grindSize": "Extra Coarse"
+      },
+      {
+        "name": "Cold Drip",
+        "settings": [16.5, 1.10],
+        "microns": [820, 1270],
+        "grindSize": "Coarse"
+      },
+      {
+        "name": "Steep-and-release",
+        "settings": [7, 16.5],
+        "microns": [450, 825],
+        "grindSize": "Medium"
+      }
+    ]
+  },
+    "Niche Zero": {
+    "name": "Niche Zero",
+    "units": "settings",
+    "range": [0.04, 1.23],
+    "brewingMethods": [
+      {
+        "name": "Turkish",
+        "settings": [0.04, 0.17],
+        "microns": [40, 220],
+        "grindSize": "Extra Fine"
+      },
+      {
+        "name": "Espresso",
+        "settings": [0.15, 0.30],
+        "microns": [180, 380],
+        "grindSize": "Fine"
+      },
+      {
+        "name": "V60",
+        "settings": [0.33, 0.56],
+        "microns": [400, 700],
+        "grindSize": "Medium Fine"
+      },
+      {
+        "name": "Aeropress",
+        "settings": [0.26, 0.77],
+        "microns": [320, 960],
+        "grindSize": "Fine to Medium"
+      },
+      {
+        "name": "Moka Pot",
+        "settings": [0.30, 0.53],
+        "microns": [360, 660],
+        "grindSize": "Fine"
+      },
+      {
+        "name": "Pour Over",
+        "settings": [0.34, 0.75],
+        "microns": [410, 930],
+        "grindSize": "Medium"
+      },
+      {
+        "name": "Siphon",
+        "settings": [0.31, 0.64],
+        "microns": [375, 800],
+        "grindSize": "Medium"
+      },
+      {
+        "name": "Filter Coffee Machine",
+        "settings": [0.25, 0.72],
+        "microns": [300, 900],
+        "grindSize": "Medium"
+      },
+      {
+        "name": "French Press",
+        "settings": [0.56, 1.14],
+        "microns": [690, 1300],
+        "grindSize": "Coarse"
+      },
+      {
+        "name": "Cupping",
+        "settings": [0.38, 0.68],
+        "microns": [460, 850],
+        "grindSize": "Medium Coarse"
+      },
+      {
+        "name": "Cold Brew",
+        "settings": [0.65, 1.23],
+        "microns": [800, 1440],
+        "grindSize": "Extra Coarse"
+      },
+      {
+        "name": "Cold Drip",
+        "settings": [0.67, 1.12],
+        "microns": [820, 1270],
+        "grindSize": "Coarse"
+      },
+      {
+        "name": "Steep-and-release",
+        "settings": [0.37, 0.66],
+        "microns": [450, 825],
+        "grindSize": "Medium"
+      }
+    ]
+  },
+    "Timemore C2": {
+    "name": "Timemore C2",
+    "units": "clicks",
+    "range": [2, 30],
+    "brewingMethods": [
+      {
+        "name": "Turkish",
+        "clicks": [2, 6],
+        "microns": [40, 220],
+        "grindSize": "Extra Fine"
+      },
+      {
+        "name": "Espresso",
+        "clicks": [6, 12],
+        "microns": [180, 380],
+        "grindSize": "Fine"
+      },
+      {
+        "name": "V60",
+        "clicks": [13, 22],
+        "microns": [400, 700],
+        "grindSize": "Medium Fine"
+      },
+      {
+        "name": "Aeropress",
+        "clicks": [11, 30],
+        "microns": [320, 960],
+        "grindSize": "Fine to Medium"
+      },
+      {
+        "name": "Moka Pot",
+        "clicks": [12, 20],
+        "microns": [360, 660],
+        "grindSize": "Fine"
+      },
+      {
+        "name": "Pour Over",
+        "clicks": [13, 29],
+        "microns": [410, 930],
+        "grindSize": "Medium"
+      },
+      {
+        "name": "Siphon",
+        "clicks": [12, 25],
+        "microns": [375, 800],
+        "grindSize": "Medium"
+      },
+      {
+        "name": "Filter Coffee Machine",
+        "clicks": [10, 28],
+        "microns": [300, 900],
+        "grindSize": "Medium"
+      },
+      {
+        "name": "French Press",
+        "clicks": [22, 30],
+        "microns": [690, 1300],
+        "grindSize": "Coarse"
+      },
+      {
+        "name": "Cupping",
+        "clicks": [15, 26],
+        "microns": [460, 850],
+        "grindSize": "Medium Coarse"
+      },
+      {
+        "name": "Cold Brew",
+        "clicks": [26, 30],
+        "microns": [800, 1440],
+        "grindSize": "Extra Coarse"
+      },
+      {
+        "name": "Cold Drip",
+        "clicks": [26, 30],
+        "microns": [820, 1270],
+        "grindSize": "Coarse"
+      },
+      {
+        "name": "Steep-and-release",
+        "clicks": [15, 26],
+        "microns": [450, 825],
+        "grindSize": "Medium"
+      }
+    ]
+  },
+  "Comandante X25 Trailmaster": {
+    "name": "Comandante X25 Trailmaster",
+    "units": "clicks",
+    "range": [2, 40],
+    "brewingMethods": [
+      {
+        "name": "Turkish",
+        "clicks": [2, 8],
+        "microns": [40, 220],
+        "grindSize": "Extra Fine"
+      },
+      {
+        "name": "Espresso",
+        "clicks": [7, 13],
+        "microns": [180, 380],
+        "grindSize": "Fine"
+      },
+      {
+        "name": "V60",
+        "clicks": [15, 25],
+        "microns": [400, 700],
+        "grindSize": "Medium Fine"
+      },
+      {
+        "name": "Aeropress",
+        "clicks": [12, 35],
+        "microns": [320, 960],
+        "grindSize": "Fine to Medium"
+      },
+      {
+        "name": "Moka Pot",
+        "clicks": [14, 24],
+        "microns": [360, 660],
+        "grindSize": "Fine"
+      },
+      {
+        "name": "Pour Over",
+        "clicks": [16, 34],
+        "microns": [410, 930],
+        "grindSize": "Medium"
+      },
+      {
+        "name": "Siphon",
+        "clicks": [14, 29],
+        "microns": [375, 800],
+        "grindSize": "Medium"
+      },
+      {
+        "name": "Filter Coffee Machine",
+        "clicks": [12, 33],
+        "microns": [300, 900],
+        "grindSize": "Medium"
+      },
+      {
+        "name": "French Press",
+        "clicks": [26, 40],
+        "microns": [690, 1300],
+        "grindSize": "Coarse"
+      },
+      {
+        "name": "Cupping",
+        "clicks": [17, 31],
+        "microns": [460, 850],
+        "grindSize": "Medium Coarse"
+      },
+      {
+        "name": "Cold Brew",
+        "clicks": [30, 40],
+        "microns": [800, 1440],
+        "grindSize": "Extra Coarse"
+      },
+      {
+        "name": "Cold Drip",
+        "clicks": [31, 40],
+        "microns": [820, 1270],
+        "grindSize": "Coarse"
+      },
+      {
+        "name": "Steep-and-release",
+        "clicks": [17, 30],
+        "microns": [450, 825],
+        "grindSize": "Medium"
+      }
+    ]
+  }
+}
